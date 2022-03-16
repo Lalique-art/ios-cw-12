@@ -24,7 +24,7 @@ func Grade(first:Int,second:Int,third:Int)->String{
 }
 print(Grade(first: 77, second:88 , third: 99))
 func Name()-> String{
-    return "maram matiti"
+    return "maryam matiti"
 }
 func wo(x:Int,y:Int){
     print(x+y)
